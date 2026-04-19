@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is **Jabbar** and I am a junior software developer based in Iran. Here, you can find some of my showcase projects.
+My name is **Jabbar** and I am a software developer based in Iran. Here, you can find some of my showcase projects.
 
 <!--
 **jmehdipour/jmehdipour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
